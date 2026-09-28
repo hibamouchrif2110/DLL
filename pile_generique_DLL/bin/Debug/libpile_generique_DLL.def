@@ -1,0 +1,4 @@
+EXPORTS
+    DllMain @1
+    verifierExpression @2
+    verifierExpressionTableau @3
